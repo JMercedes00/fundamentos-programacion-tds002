@@ -12,4 +12,4 @@
 
 | Semana | Carpeta | Nombre de la tarea |
 |---|---|---|
-| Semana 1 | [01-HolaMundo](./01-HolaMundo) | Hola Mundo + Presentación |
+| Semana 1 | [01-HolaMundo](./01-HolaMundo) | Nivel 0 + Hola Mundo |
