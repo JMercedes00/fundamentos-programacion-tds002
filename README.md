@@ -1,8 +1,15 @@
-# fundamentos-programacion-tds002
-**Nombre:** Justin Mercedes
-**Matricula:** 2026-0701
-**Seccion:** 3
+# Repositorio de Fundamentos de Programación
 
-## Indice de temas
+## Información Personal
 
-1. Hola Mundo y Presentacion
+| Información Personal | Detalle |
+|---|---|
+| Nombre | Justin Mercedes |
+| Matrícula | 2026-0701 |
+| Sección | 3 |
+
+## Tareas y Prácticas
+
+| Semana | Carpeta | Nombre de la tarea |
+|---|---|---|
+| Semana 1 | [01-HolaMundo](./01-HolaMundo) | Hola Mundo + Presentación |
