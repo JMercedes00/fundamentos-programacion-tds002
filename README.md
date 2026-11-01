@@ -13,3 +13,4 @@
 | Semana | Carpeta | Nombre de la tarea |
 |---|---|---|
 | Semana 1 | [01-HolaMundo](./01-HolaMundo) | Nivel 0 + Hola Mundo |
+| Semana 2 | [02-Variables](./02-Variables) | Variables y tipos de datos |
