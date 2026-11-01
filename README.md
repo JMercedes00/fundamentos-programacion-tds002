@@ -16,3 +16,4 @@
 | Semana 2 | [02-Variables](./02-Variables) | Variables y tipos de datos |
 | Semana 2 | [Evaluacion02](./Evaluacion02) | Evaluación 02: programas con variables y tipos de datos |
 | Semana 3 | [03-Operadores](./03-Operadores) | Operadores y expresiones |
+| Semana 4 | [04-Secuencial](./04-Secuencial) | Conversor de unidades |
