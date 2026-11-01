@@ -20,3 +20,4 @@
 | Semana 4 | [Evaluacion03](./Evaluacion03) | Evaluación 03: programas secuenciales en C# |
 | Semana 6 | [06-Decisiones](./06-Decisiones) | Estructuras de decisión |
 | Semana 7 | [07-Ciclos](./07-Ciclos) | Ciclos while y do-while |
+| Semana 7 | [Evaluacion05](./Evaluacion05) | Evaluación 05: programas con ciclos while y do-while |
