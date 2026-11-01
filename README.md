@@ -18,3 +18,4 @@
 | Semana 3 | [03-Operadores](./03-Operadores) | Operadores y expresiones |
 | Semana 4 | [04-Secuencial](./04-Secuencial) | Conversor de unidades |
 | Semana 4 | [Evaluacion03](./Evaluacion03) | Evaluación 03: programas secuenciales en C# |
+| Semana 6 | [06-Decisiones](./06-Decisiones) | Estructuras de decisión |
