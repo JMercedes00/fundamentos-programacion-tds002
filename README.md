@@ -6,7 +6,7 @@
 |---|---|
 | Nombre | Justin Mercedes |
 | Matrícula | 2026-0701 |
-| Sección | [Tu sección] |
+| Sección | 3 |
 
 ## Tareas y Prácticas
 
