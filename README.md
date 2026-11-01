@@ -15,3 +15,4 @@
 | Semana 1 | [01-HolaMundo](./01-HolaMundo) | Nivel 0 + Hola Mundo |
 | Semana 2 | [02-Variables](./02-Variables) | Variables y tipos de datos |
 | Semana 2 | [Evaluacion02](./Evaluacion02) | Evaluación 02: programas con variables y tipos de datos |
+| Semana 3 | [03-Operadores](./03-Operadores) | Operadores y expresiones |
